@@ -19,7 +19,7 @@ This code is currently being used to get me an A on my homework :)
 ## Three observations
 The gamers are mostly male 84%.
 They are mostly 20-24 45%.
-If they could appeal to the 35-39 year olds, they could increase their overall average Purchase price as they spend the most per purchase.
+If they could appeal to the 35-39 year olds, they could increase their overall average purchase price as they spend the most per purchase.
 Final Critic is the most expensive and most purchased item.
 
 
